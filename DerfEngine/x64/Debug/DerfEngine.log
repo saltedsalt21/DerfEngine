@@ -1,0 +1,7 @@
+﻿  GameObject.h
+  TextureManager.cpp
+  Game.cpp
+  Main.cpp
+C:\Users\ineuh\Desktop\Programs and stuff\Projects\DerfEngine\DerfEngine\DerfEngine\Main.cpp(30,30): warning C4244: '=': conversion from 'unsigned __int64' to 'int', possible loss of data
+  Generating Code...
+  DerfEngine.vcxproj -> C:\Users\ineuh\Desktop\Programs and stuff\Projects\DerfEngine\DerfEngine\x64\Debug\DerfEngine.exe
